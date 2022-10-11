@@ -8,6 +8,9 @@ Here is things I think would be cool to implement here:
  + Videofeed to look after grand-dad
  + Telemetry, such as temperature, humidity, power usage
  + Voice recognizion, as input
+ + Built-in VPN server for sequre connection from outside
+ + Web and mail server for outside control
+ + Calendar
 
 Any help I would appresiate, as well as any donations on Armed Ukrainian Forces, or to any ukrainian volunteer.
 
